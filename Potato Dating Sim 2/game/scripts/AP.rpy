@@ -1,0 +1,1 @@
+default potatoAffection = 0
